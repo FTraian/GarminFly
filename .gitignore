@@ -1,0 +1,7 @@
+bin/
+obj/
+vgcore.*
+*.out
+prof_*
+.ipynb_checkpoints/
+.DS_Store
